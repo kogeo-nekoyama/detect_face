@@ -1,0 +1,1 @@
+clang++ -std=c++11 main.cpp -o detect_face -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_objdetect -lboost_system -lboost_filesystem
